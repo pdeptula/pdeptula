@@ -1,5 +1,4 @@
-### HI THERE! 👋
-
+### HI THERE! 👋👽
 My name is Pat!
 
 <!--
@@ -17,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👽
 - 🚀 I’m currently working on various things related to autonomy, robotics, machine learning/AI, and more!
 - 👾 I’m currently learning all things AI and robotics.
 - ⚡ Fun fact: ...
